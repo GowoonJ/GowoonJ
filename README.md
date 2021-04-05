@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![gowoonJ's github stats](https://github-readme-stats.vercel.app/api?username=GowoonJ&theme=dracula&show_icons=true)](https://github.com/GowoonJ)
-[![gowoonJ's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GowoonJ&layout=compact&theme=dracula&show_icons=true)](https://github.com/GowoonJ)

@@ -3,7 +3,7 @@
 **GowoonJ/GowoonJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🏫INU 
-- 🔭 Gyobo Book
+- 🔭 Kyobo Book
 - 🌱 Android, Flutter, Mobile Application and so on..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -27,8 +27,10 @@
   - Java
   - Kotlin
 - Flutter
-  - Dart 
+  - Dart
+  - GetX
 
 #### Frontend
-- JS
+- JS, TS
+- React
 - Spring boot

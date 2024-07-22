@@ -22,6 +22,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GowoonJ&hide=javascript,html&layout=compact&theme=solarized-light)](https://github.com/GowoonJ)
 
 ### Tech
+#### Backend
+- Spring Boot
+- Java
+- JPA
+- SQL
+
 #### Mobile
 - Android
   - Java
